@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.7.25)  28 JUL 2023 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.7.25)  29 JUL 2023 03:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,20 +131,20 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 No file latexwork.aux.
 \openout1 = `latexwork.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
@@ -201,77 +201,47 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \celsius on input line 7.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 7.
+LaTeX Info: Redefining \celsius on input line 8.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 8.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 7.
-Package gensymb Info: Using \Omega for \ohm on input line 7.
+LaTeX Info: Redefining \ohm on input line 8.
+Package gensymb Info: Using \Omega for \ohm on input line 8.
 
 Package gensymb Warning: Not defining \micro.
 
 
 LaTeX Warning: No \author given.
 
-</sdcard/internship/30-2-1-question12.png, id=1, 162.6075pt x 142.73325pt>
-File: /sdcard/internship/30-2-1-question12.png Graphic file (type png)
-<use /sdcard/internship/30-2-1-question12.png>
-Package pdftex.def Info: /sdcard/internship/30-2-1-question12.png  used on inpu
-t line 34.
+<figs/30-2-1-question12.png, id=1, 162.6075pt x 142.73325pt>
+File: figs/30-2-1-question12.png Graphic file (type png)
+<use figs/30-2-1-question12.png>
+Package pdftex.def Info: figs/30-2-1-question12.png  used on input line 35.
 (pdftex.def)             Requested size: 345.0pt x 302.85654pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-
- []
-
-[2 </sdcard/internship/30-2-1-question12.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-
- []
-
-</sdcard/internship/30-4-3-question36.png, id=19, 352.31625pt x 160.80075pt>
-File: /sdcard/internship/30-4-3-question36.png Graphic file (type png)
-<use /sdcard/internship/30-4-3-question36.png>
-Package pdftex.def Info: /sdcard/internship/30-4-3-question36.png  used on inpu
-t line 56.
+<figs/30-4-3-question36.png, id=15, 352.31625pt x 160.80075pt>
+File: figs/30-4-3-question36.png Graphic file (type png)
+<use figs/30-4-3-question36.png>
+Package pdftex.def Info: figs/30-4-3-question36.png  used on input line 57.
 (pdftex.def)             Requested size: 345.0pt x 157.46095pt.
-[3 </sdcard/internship/30-4-3-question36.png>] (./latexwork.aux)
+ [2 <./figs/30-2-1-question12.png>] [3 <./figs/30-4-3-question36.png>] (./latex
+work.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  2716 strings out of 476091
- 45259 string characters out of 5794081
- 1859330 words of memory out of 5000000
+ 45077 string characters out of 5794081
+ 1860330 words of memory out of 5000000
  23078 multiletter control sequences out of 15000+600000
  516878 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,67p,377b,318s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 62i,8n,67p,369b,317s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
@@ -280,7 +250,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/tfrupee/tfrupee.pfb>
-Output written on latexwork.pdf (3 pages, 387215 bytes).
+Output written on latexwork.pdf (3 pages, 387210 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
